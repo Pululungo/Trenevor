@@ -162,4 +162,4 @@ if Hours_left == 0:
 
 print(f"Once outside of the dungeon, things take a strange twist. You hear a familiar voice thundering from above the castle grounds: 'To arms!! The prisioner {player_name} has escaped!! Awaken the Gargoyles to smoke out that sleazy {player_class}!'")
 print()
-print("Shortly after, the foundations of the entire castle begin to rumble, followed by ")
+print("Shortly after, the foundations of the entire castle begin to rumble, followed by a thunderstrike")
